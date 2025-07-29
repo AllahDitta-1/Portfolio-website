@@ -6,9 +6,9 @@ import App from './App';
 import './output.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
+  
     <BrowserRouter> {/* ✅ ONLY HERE */}
       <App />
     </BrowserRouter>
-  </React.StrictMode>
+ 
 );

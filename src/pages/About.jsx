@@ -100,7 +100,6 @@ const About = () => {
             <div style={{ display: "flex", flexWrap: "wrap", gap: "0.75rem", marginTop: "1.5rem" }}>
               {[
                 "Responsive Design",
-                
                 "Hooks",
                 "REST APIs",
                 "Git",
