@@ -20,21 +20,17 @@ A personal portfolio website built with React and Vite to showcase profile infor
 
 ## Getting Started
 
-`ash
+```bash
 npm install
 npm run dev
-`
+```
 
 ## Available Scripts
 
-- 
-pm run dev starts the local development server.
-- 
-pm run build creates an optimized production build.
-- 
-pm run preview previews the production build locally.
-- 
-pm run lint checks the code with ESLint.
+- `npm run dev` starts the local development server.
+- `npm run build` creates an optimized production build.
+- `npm run preview` previews the production build locally.
+- `npm run lint` checks the code with ESLint.
 
 
 ## Notes
