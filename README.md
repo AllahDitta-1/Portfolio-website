@@ -1,12 +1,47 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio website built with React and Vite to showcase profile information, featured projects, and contact details in a polished single-owner presentation.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Multi-page portfolio flow with Home, About, Projects, and Contact pages.
+- Reusable app bar and footer for a consistent personal brand layout.
+- Animation-ready frontend built with Framer Motion and Material UI.
+- Designed as a portfolio base for presenting work and skills professionally.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- React Router DOM
+- Material UI
+- Framer Motion
+- Tailwind CSS
+
+## Getting Started
+
+`ash
+npm install
+npm run dev
+`
+
+## Available Scripts
+
+- 
+pm run dev starts the local development server.
+- 
+pm run build creates an optimized production build.
+- 
+pm run preview previews the production build locally.
+- 
+pm run lint checks the code with ESLint.
+
+
+## Notes
+
+- The default Vite starter README has been replaced with project-specific documentation.
+- This repository works well as a foundation for a public developer portfolio.
+
+## Author
+
+Allah Ditta
